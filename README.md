@@ -36,9 +36,9 @@ quiz-app/
 ⚡ How to Run
 
 Clone the repo
-
-git clone https://github.com/your-username/quiz-app.git
-
+```bash
+git clone https://github.com/sudheer948/quiz-app
+```
 
 Open index.html in your browser
 
