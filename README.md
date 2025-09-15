@@ -27,7 +27,7 @@ CSS3 → styling
 
 JavaScript (ES6+) → logic & interactivity
 
-📂 Project Structure
+## 📂 Project Structure
 quiz-app/
 |- index.html # Main UI
 |- style.css  # Styles
