@@ -29,9 +29,9 @@ JavaScript (ES6+) → logic & interactivity
 
 📂 Project Structure
 quiz-app/
-│── index.html    # Main UI
-│── style.css     # Styles
-│── app.js        # Quiz logic
+|- index.html # Main UI
+|- style.css  # Styles
+|- app.js     # Quiz logic
 
 ⚡ How to Run
 
